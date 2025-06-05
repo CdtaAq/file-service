@@ -1,0 +1,8 @@
+server:
+  port: 8084
+
+aws:
+  access-key: YOUR_AWS_ACCESS_KEY
+  secret-key: YOUR_AWS_SECRET_KEY
+  region: us-east-1
+  bucket-name: your-s3-bucket-name
